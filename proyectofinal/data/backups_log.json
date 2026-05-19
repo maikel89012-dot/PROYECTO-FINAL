@@ -1,0 +1,10 @@
+[
+    {
+        "id_backup": 1,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "backup_20260518_214355_test_archivo.json",
+        "ruta_absoluta": "E:\\proyectos\\proyectofinal\\data\\backups\\backup_20260518_214355_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 21:43:55"
+    }
+]

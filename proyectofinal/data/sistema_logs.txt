@@ -1,0 +1,133 @@
+[2026-05-18 21:43:15] ALERTA SOBRECUPO: Unidad TEST-BUS excedio su capacidad. Capacidad: 30, A bordo: 35
+[2026-05-18 21:43:15] ALERTA SOBRECUPO: Unidad TEST-BUS excedio su capacidad. Capacidad: 30, A bordo: 35
+[2026-05-18 21:43:15] ERROR 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 21:43:15] ERROR 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 21:43:15] ERROR 105: El monto a recargar debe ser un numero positivo mayor a cero.
+[2026-05-18 21:43:15] ERROR 102: Saldo insuficiente. Requerido: $10.00, Disponible: $2.00
+[2026-05-18 21:43:55] ERROR 105: La nueva contrasena debe tener al menos 6 caracteres.
+[2026-05-18 21:43:55] ALERTA SOBRECUPO: Unidad TEST-BUS excedio su capacidad. Capacidad: 30, A bordo: 35
+[2026-05-18 21:43:55] ALERTA SOBRECUPO: Unidad TEST-BUS excedio su capacidad. Capacidad: 30, A bordo: 35
+[2026-05-18 21:43:55] ERROR 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 21:43:55] ERROR 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 21:43:55] ERROR 107: Una o ambas estaciones de origen/destino no se encuentran mapeadas en el grafo.
+[2026-05-18 21:43:55] ERROR 106: No se pudo firmar el token de descuento: Acceso denegado: El alumno se encuentra con estatus EGRESADO.
+[2026-05-18 21:43:55] ERROR 105: El monto a recargar debe ser un numero positivo mayor a cero.
+[2026-05-18 21:43:55] ERROR 105: No se permite recargar mas de $1000.00 pesos en una sola operacion por seguridad.
+[2026-05-18 21:43:55] ERROR 102: Saldo insuficiente. Requerido: $10.00, Disponible: $2.00
+[2026-05-18 21:44:35] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 21:44:35] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:44:35] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:44:35] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:44:35] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:44:35] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 21:44:35] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 21:44:35] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 21:44:35] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 21:44:35] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 21:44:35] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 21:44:35] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00
+[2026-05-18 21:48:15] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 21:48:15] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:48:15] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:48:15] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:48:15] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:48:15] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 21:48:15] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 21:48:15] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 21:48:15] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 21:48:15] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 21:48:15] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 21:48:15] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00
+[2026-05-18 21:49:52] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 21:49:52] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:49:52] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:49:52] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:49:52] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:49:52] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 21:49:52] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 21:49:52] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 21:49:52] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 21:49:52] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 21:49:52] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 21:49:52] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00
+[2026-05-18 21:51:08] ERROR_CODE 107: No existe conexion viable o camino continuo entre las estaciones 102 y 301.
+[2026-05-18 21:54:45] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 21:54:45] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:54:45] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 21:54:45] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:54:45] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 21:54:45] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 21:54:45] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 21:54:45] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 21:54:45] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 21:54:45] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 21:54:45] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 21:54:45] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00
+[2026-05-18 21:55:38] ERROR_CODE 107: No existe conexion viable o camino continuo entre las estaciones 202 y 303.
+[2026-05-18 21:56:33] ERROR_CODE 107: No existe conexion viable o camino continuo entre las estaciones 104 y 205.
+[2026-05-18 21:56:53] ERROR_CODE 107: No existe conexion viable o camino continuo entre las estaciones 102 y 203.
+[2026-05-18 21:57:05] ERROR_CODE 107: No existe conexion viable o camino continuo entre las estaciones 102 y 304.
+[2026-05-18 21:57:09] ERROR_CODE 107: No existe conexion viable o camino continuo entre las estaciones 102 y 205.
+[2026-05-18 21:57:58] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 31
+[2026-05-18 21:59:01] SOBRECUPO DETECTADO: Unidad BUS-IPN-01 sobrepasada. Capacidad: 35, Abordados: 37
+[2026-05-18 22:01:07] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 32
+[2026-05-18 22:02:11] SOBRECUPO DETECTADO: Unidad BUS-BUAP-01 sobrepasada. Capacidad: 40, Abordados: 42
+[2026-05-18 22:02:11] SOBRECUPO DETECTADO: Unidad BUS-IPN-02 sobrepasada. Capacidad: 35, Abordados: 36
+[2026-05-18 22:03:14] SOBRECUPO DETECTADO: Unidad BUS-BUAP-01 sobrepasada. Capacidad: 40, Abordados: 42
+[2026-05-18 22:04:01] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 22:04:01] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:04:01] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:04:01] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:04:01] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:04:01] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 22:04:01] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 22:04:01] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 22:04:01] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 22:04:01] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 22:04:01] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 22:04:01] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00
+[2026-05-18 22:04:17] SOBRECUPO DETECTADO: Unidad BUS-BUAP-01 sobrepasada. Capacidad: 40, Abordados: 42
+[2026-05-18 22:05:20] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 32
+[2026-05-18 22:06:08] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 22:06:08] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:06:08] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:06:08] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:06:08] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:06:08] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 22:06:08] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 22:06:08] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 22:06:08] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 22:06:08] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 22:06:08] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 22:06:08] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00
+[2026-05-18 22:06:19] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 22:06:19] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:06:19] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:06:19] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:06:19] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:06:19] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 22:06:19] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 22:06:19] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 22:06:19] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 22:06:19] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 22:06:19] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 22:06:19] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00
+[2026-05-18 22:07:26] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 32
+[2026-05-18 22:08:29] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 30
+[2026-05-18 22:09:33] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 32
+[2026-05-18 22:10:36] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 31
+[2026-05-18 22:11:40] SOBRECUPO DETECTADO: Unidad BUS-TEC-02 sobrepasada. Capacidad: 30, Abordados: 31
+[2026-05-18 22:12:43] SOBRECUPO DETECTADO: Unidad BUS-IPN-02 sobrepasada. Capacidad: 35, Abordados: 37
+[2026-05-18 22:13:47] SOBRECUPO DETECTADO: Unidad BUS-IPN-02 sobrepasada. Capacidad: 35, Abordados: 37
+[2026-05-18 22:15:22] ERROR_CODE 105: La contrasena nueva debe contener al menos 6 caracteres por seguridad.
+[2026-05-18 22:15:22] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:15:22] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 35
+[2026-05-18 22:15:22] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:15:22] SOBRECUPO DETECTADO: Unidad TEST-BUS sobrepasada. Capacidad: 30, Abordados: 38
+[2026-05-18 22:15:22] ERROR_CODE 105: El campo 'ID Usuario' debe ser un numero entero positivo.
+[2026-05-18 22:15:22] ERROR_CODE 105: La direccion de correo electronico provista no tiene un formato valido.
+[2026-05-18 22:15:22] ERROR_CODE 107: Las paradas de origen y/o destino no forman parte de la infraestructura de red.
+[2026-05-18 22:15:22] ERROR_CODE 106: No se pudo firmar el convenio estudiantil: Credencial escolar inactiva o periodo escolar expirado.
+[2026-05-18 22:15:22] ERROR_CODE 105: El monto de recarga de la tarjeta debe ser mayor a cero.
+[2026-05-18 22:15:22] ERROR_CODE 105: No se permite recargar montos superiores a $1000.00 de forma unitaria.
+[2026-05-18 22:15:22] ERROR_CODE 102: Fondos insuficientes. Requerido: $10.00, Balance: $2.00

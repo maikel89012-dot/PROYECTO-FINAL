@@ -1,0 +1,74 @@
+[
+    {
+        "id_unidad": "BUS-BUAP-01",
+        "capacidad_max": 40,
+        "pasajeros_actuales": 5,
+        "ubicacion_actual": [
+            19.036459999999998,
+            -98.21025999999999
+        ],
+        "estado": "En ruta",
+        "temperatura_motor": 89.4,
+        "nivel_combustible": 99.5
+    },
+    {
+        "id_unidad": "BUS-BUAP-02",
+        "capacidad_max": 40,
+        "pasajeros_actuales": 20,
+        "ubicacion_actual": [
+            19.036459999999998,
+            -98.21025999999999
+        ],
+        "estado": "En ruta",
+        "temperatura_motor": 89.99,
+        "nivel_combustible": 99.5
+    },
+    {
+        "id_unidad": "BUS-TEC-01",
+        "capacidad_max": 30,
+        "pasajeros_actuales": 10,
+        "ubicacion_actual": [
+            19.046780000000002,
+            -98.2759
+        ],
+        "estado": "En ruta",
+        "temperatura_motor": 87.5,
+        "nivel_combustible": 99.5
+    },
+    {
+        "id_unidad": "BUS-TEC-02",
+        "capacidad_max": 30,
+        "pasajeros_actuales": 29,
+        "ubicacion_actual": [
+            19.046780000000002,
+            -98.2759
+        ],
+        "estado": "En ruta",
+        "temperatura_motor": 89.17,
+        "nivel_combustible": 99.5
+    },
+    {
+        "id_unidad": "BUS-IPN-01",
+        "capacidad_max": 35,
+        "pasajeros_actuales": 2,
+        "ubicacion_actual": [
+            19.00194,
+            -98.2449
+        ],
+        "estado": "En ruta",
+        "temperatura_motor": 91.11,
+        "nivel_combustible": 99.5
+    },
+    {
+        "id_unidad": "BUS-IPN-02",
+        "capacidad_max": 35,
+        "pasajeros_actuales": 33,
+        "ubicacion_actual": [
+            19.00194,
+            -98.2449
+        ],
+        "estado": "En ruta",
+        "temperatura_motor": 89.14,
+        "nivel_combustible": 99.5
+    }
+]

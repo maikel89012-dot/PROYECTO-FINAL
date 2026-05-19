@@ -1,0 +1,66 @@
+[
+    {
+        "id_respaldo": 1,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_214435_test_archivo.json",
+        "ruta_absoluta": "E:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_214435_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 21:44:35"
+    },
+    {
+        "id_respaldo": 2,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_214815_test_archivo.json",
+        "ruta_absoluta": "e:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_214815_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 21:48:15"
+    },
+    {
+        "id_respaldo": 3,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_214952_test_archivo.json",
+        "ruta_absoluta": "E:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_214952_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 21:49:52"
+    },
+    {
+        "id_respaldo": 4,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_215445_test_archivo.json",
+        "ruta_absoluta": "e:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_215445_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 21:54:46"
+    },
+    {
+        "id_respaldo": 5,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_220401_test_archivo.json",
+        "ruta_absoluta": "E:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_220401_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 22:04:01"
+    },
+    {
+        "id_respaldo": 6,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_220608_test_archivo.json",
+        "ruta_absoluta": "E:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_220608_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 22:06:08"
+    },
+    {
+        "id_respaldo": 7,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_220619_test_archivo.json",
+        "ruta_absoluta": "e:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_220619_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 22:06:19"
+    },
+    {
+        "id_respaldo": 8,
+        "nombre_original": "test_archivo.json",
+        "nombre_copia": "respaldo_20260518_221522_test_archivo.json",
+        "ruta_absoluta": "e:\\proyectos\\proyectofinal\\data\\backups\\respaldo_20260518_221522_test_archivo.json",
+        "hash_sha256": "9135b7b92b7d5cb50e4299f37815e5dc15ff0a8bdd06432d138af0ce73f9d4d9",
+        "fecha_creacion": "2026-05-18 22:15:22"
+    }
+]

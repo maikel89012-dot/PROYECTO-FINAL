@@ -1,0 +1,30 @@
+[
+    {
+        "id_tarjeta": "BUAP-9901",
+        "saldo_actual": 260.0,
+        "id_usuario": 1001,
+        "fecha_ult_uso": "2026-05-18",
+        "tipo_descuento": "BUAP"
+    },
+    {
+        "id_tarjeta": "ITESM-8802",
+        "saldo_actual": 350.0,
+        "id_usuario": 1002,
+        "fecha_ult_uso": "2026-05-18",
+        "tipo_descuento": "TEC DE MONTERREY"
+    },
+    {
+        "id_tarjeta": "IPN-7703",
+        "saldo_actual": 95.0,
+        "id_usuario": 1003,
+        "fecha_ult_uso": "2026-05-18",
+        "tipo_descuento": "IPN"
+    },
+    {
+        "id_tarjeta": "REG-6604",
+        "saldo_actual": 45.0,
+        "id_usuario": 1004,
+        "fecha_ult_uso": "2026-05-18",
+        "tipo_descuento": "REGULAR"
+    }
+]
